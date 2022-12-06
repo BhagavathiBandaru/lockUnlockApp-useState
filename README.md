@@ -1,5 +1,7 @@
 In this project, let's build a **Unlock/Lock App** by applying the concepts we have learned till now.
 
+Published Successfully!. Check at https://bandaruAPPLOCK.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
